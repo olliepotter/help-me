@@ -1,5 +1,5 @@
 
-# Setup k8s ingress
+# Setup k8s ingress (NGINX)
 
 ## Setup ingress controller
 Basically, there is a resource called **Ingress**. You can set one up and configure one but it is useless unless you have an **Ingress Controller**.
